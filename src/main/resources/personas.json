@@ -1,0 +1,5 @@
+{"nombre":"Juan","apellidos":"García","edad":25, "dni": "23000000T", "cp": "28001", "email": "juan@garcia.es"}
+{"nombre":"Juan","apellidos":"Ruiz","edad":55, "dni": "23000003T", "cp": "28003", "email": "juan@ruiz.es"}
+{"nombre":"María","apellidos":"García","edad":43, "dni": "23000001R", "cp": "28000", "email": "maria@garcia.com"}
+{"nombre":"Menchu","apellidos":"Ruiz","edad":15, "dni": "23000002W", "cp": "28002", "email": "menchu@ruiz.net"}
+{"nombre":"Menchu","apellidos":"Rosa","edad":20, "dni": "23000005M", "cp": "28010", "email": "menchu@rosa.net"}
